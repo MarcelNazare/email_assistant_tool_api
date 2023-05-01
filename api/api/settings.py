@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'userapi',
 ]
 
 MIDDLEWARE = [
@@ -84,10 +85,10 @@ DATABASES = {
 DATABASES = {
         'default': {
             'ENGINE': 'djongo',
-            'NAME': 'admin',
+            'NAME': 'cluster0',
             'ENFORCE_SCHEMA': False,
             'CLIENT': {
-                'host': 'mongodb+srv://realmarcelnazare:<password>@cluster0.tenofax.mongodb.net/?retryWrites=true&w=majority'
+                'host': 'mongodb+srv://realmarcelnazare:oextRdmJwls3ul9H@cluster0.tenofax.mongodb.net/?retryWrites=true&w=majority'
             }
         }
 }
