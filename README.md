@@ -1,6 +1,7 @@
 ![App Screenshot](https://i.ibb.co/3d5kmp7/Sendo.jpg)
 # SENDO - An Email Assistant Tool Powered By AI
 
+Imagine an email assistant that can help you write, reply and organize your messages with the power of AI. It can suggest the best words and phrases to use, based on the context and tone of your email. With this email assistant, you can save time and energy, and communicate more effectively and professionally.
 
 
 
