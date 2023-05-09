@@ -14,7 +14,7 @@ frozenlist==1.3.3
 idna==3.4
 multidict==6.0.4
 openai==0.27.5
-pymongo==4.3.3
+pymongo==3.12.3
 pytz==2023.3
 requests==2.29.0
 sqlparse==0.2.4
