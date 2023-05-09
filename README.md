@@ -14,16 +14,18 @@ Clone the project
   git clone https://github.com/MarcelNazare/email_assistant_tool_api.git
 ~~~
 
-Go to the project directory  
 
-~~~bash  
-  cd api
-~~~
 
 Install dependencies  
 
 ~~~bash  
 pip install requirements.txt
+~~~
+
+Go to the project directory  
+
+~~~bash  
+  cd api
 ~~~
 
 Start the database migration  
