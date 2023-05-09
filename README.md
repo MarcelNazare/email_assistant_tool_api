@@ -57,7 +57,7 @@ Please adhere to this project's `code of conduct`.
 
 
 ## Tech Stack  
-**Client:** HTML, Javascript, CSS 
+**Client:** HTML, Javascript, TailwindCSS 
 
 **Server:** Django, MongoDB
 
