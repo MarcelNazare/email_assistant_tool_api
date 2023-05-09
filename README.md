@@ -1,5 +1,4 @@
-## Screenshots  
-![App Screenshot](https://drive.google.com/file/d/1dGviFaXWiwtiji_-Eid-pEJjCq2XIaOk/view?usp=drive_open)
+![App Screenshot](https://i.ibb.co/3d5kmp7/Sendo.jpg)
 # SENDO - An Email Assistant Tool Powered By AI
 
 
